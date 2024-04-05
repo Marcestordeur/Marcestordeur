@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning FullStack development and advance BackEnd
 - 📫 How to reach me marcstord@gmail.com
-- ⚡ Fun fact: napoleon was not as small as it is believed
+- ⚡ Fun fact: Pepsi was the sixth largest fleet in the world.
 
 <h3 align="left">Social media: </h3>
 <a href="https://www.instagram.com/marce_stordeur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuelok29" height="30" width="40" /></a>
